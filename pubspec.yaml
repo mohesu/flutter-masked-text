@@ -1,9 +1,9 @@
 name: flutter_masked_text
 description: Masked text input for flutter.
 version: 0.8.2
-author: Ben-hur Santos Ott <ben-hur@outlook.com>
-homepage: https://github.com/benhurott/flutter-masked-text
-
+author: Ben-hur Santos Ott <ben-hur@outlook.com>, Alexandre <alexandrerj13@gmail.com>
+homepage: https://github.com/xTudoS/flutter-masked-text
+publish_to: none
 dependencies:
   flutter:
     sdk: flutter
