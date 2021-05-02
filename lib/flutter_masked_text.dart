@@ -31,8 +31,8 @@ class MaskedTextController extends TextEditingController {
 
   String _lastUpdatedText = '';
 
-  void updateText(String text) {
-    if (text != null) {
+  void updateText([String text = ""]) {
+    if (text.isNotEmpty) {
       this.text = this._applyMask(this.mask, text);
     } else {
       this.text = '';
@@ -53,7 +53,7 @@ class MaskedTextController extends TextEditingController {
   void moveCursorToEnd() {
     var text = this._lastUpdatedText;
     this.selection = new TextSelection.fromPosition(
-        new TextPosition(offset: (text ?? '').length));
+        new TextPosition(offset: (text).length));
   }
 
   @override

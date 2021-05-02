@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a60a7eb-71eb-4c43-9ad0-36cd17a7dbf2" name="Default" comment="">
+    <list default="true" id="0a60a7eb-71eb-4c43-9ad0-36cd17a7dbf2" name="Default" comment="Null Safety">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flutter_masked_text.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/flutter_masked_text.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,6 +295,14 @@
       <option name="presentableId" value="Default" />
       <updated>1526888644964</updated>
     </task>
+    <task id="LOCAL-00001" summary="Null Safety">
+      <created>1619805122108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619805122109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -313,10 +340,30 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="Makefile" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Null Safety" />
+    <option name="LAST_COMMIT_MESSAGE" value="Null Safety" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="360" y="104" width="1271" height="912" key="SettingsEditor" timestamp="1619804876920">
       <screen x="72" y="34" width="1848" height="1046" />
     </state>
     <state x="360" y="104" width="1271" height="912" key="SettingsEditor/72.34.1848.1046@72.34.1848.1046" timestamp="1619804876920" />
+    <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1619805123902">
+      <screen x="72" y="34" width="1848" height="1046" />
+    </state>
+    <state x="491" y="230" width="1000" height="661" key="Vcs.Push.Dialog.v2/72.34.1848.1046@72.34.1848.1046" timestamp="1619805123902" />
   </component>
 </project>
